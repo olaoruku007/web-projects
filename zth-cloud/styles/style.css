@@ -5,20 +5,20 @@ html {
   
   h1{
     font-size: 60px;
-    color: #00539f;
+    color: #00080f;
     text-align: center;
   }
 
   h3{
     font-size: 30px;
-    color: #00539f;
+    color: #00080f;
     text-align: center;
   }
 
 
   h4{
     font-size: 20px;
-    color: #00539f;
+    color: #00080f;
     text-align: center;
   }
 
@@ -28,20 +28,20 @@ html {
     font-size: 18px;
     line-height: 2;
     letter-spacing: 1px;
-    color: #00539f;
+    color: #00080f;
   }
   
   html {
-    background-color: #779f00;
+    background-color: #8f8141b0;
     
   }
   
   body {
-    width: 1200px;
+    width: 1600px;
     margin: 0 auto;
-    background-color: #d0ff00;
+    background-color: #cec7b9;
     padding: 0 20px 20px 20px;
-    border: 5px solid black;
+    border: 2px solid black;
   }
   
   img {
